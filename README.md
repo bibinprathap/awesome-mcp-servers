@@ -544,7 +544,6 @@ Secure database access with schema inspection capabilities. Enables querying and
 
 Data Platforms for data integration, transformation and pipeline orchestration.
 
-- [bibinprathap/VeritasGraph](https://github.com/bibinprathap/VeritasGraph/tree/master/mcp/powerbi-mcp) 🐍 ☁️ 🏠 🪟 - Enterprise MCP server for Power BI with 34+ tools, natural language DAX queries, dual Desktop/Cloud connectivity, and security features. ([demo](https://www.youtube.com/watch?v=dt4ubeCLmtQ))
 - [alkemiai/alkemi-mcp](https://github.com/alkemi-ai/alkemi-mcp) 📇 ☁️ - MCP Server for natural language querying of Snowflake, Google BigQuery, and DataBricks Data Products through Alkemi.ai.
 - [avisangle/method-crm-mcp](https://github.com/avisangle/method-crm-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Production-ready MCP server for Method CRM API integration with 20 comprehensive tools for tables, files, users, events, and API key management. Features rate limiting, retry logic, and dual transport support (stdio/HTTP).
 - [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.
